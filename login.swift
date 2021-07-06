@@ -1,6 +1,6 @@
 import Foundation
 
 struct LoginModel {
- var id: Int
+ var identifier: Int
  var name: String
 }
